@@ -23,7 +23,7 @@ Process to access the website:<br>
 <br><br>
 
 ## Lung Cancer Predictive Model
-[Lung Cancer Google Collab Link (Backend only)](https://colab.research.google.com/drive/1lin78jCg0dKB65es8SxcSTKiQeC5xWvn?usp=sharing)
+[Lung Cancer Google Collab Link (Backend only)](https://colab.research.google.com/drive/1lin78jCg0dKB65es8SxcSTKiQeC5xWvn?usp=sharing)<br>
 <br>
 [Dataset](Lung_Cancer_Dataset.csv)
 <br><br>
@@ -40,7 +40,7 @@ Process to access the website:<br>
 
 
 ## Query section for the user 
-[Query Google Collab Link (Backend only)](https://colab.research.google.com/drive/1Fg44H53bEAR_IZM-FN3uHUqZmrr_y2C0?usp=sharing)
+[Query Google Collab Link (Backend only)](https://colab.research.google.com/drive/1Fg44H53bEAR_IZM-FN3uHUqZmrr_y2C0?usp=sharing)<br>
 <br>
 [Dataset](Disease.precaution.csv)
 <br><br>
