@@ -7,7 +7,7 @@ A machine learning model utilising neural networks to predict the presence of lu
 <br><br>
 
 ## Cardiovascular Predictive Model
-[Cardiovascular Google Collab Link (Backend only) ](https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing)
+[Cardiovascular Google Collab Link (Backend only) ](https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing)<br>
 <br>
 [Dataset](heart.csv)
 <br><br>
@@ -19,7 +19,7 @@ Process to access the website:<br>
 - The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
 - Hit Enter<br>
 <br>
-[Cardiovascular Google Collab Link (Integrated Web Site) ](https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing)
+[Cardiovascular Integrated Website Code](https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing)
 <br><br>
 
 ## Lung Cancer Predictive Model
