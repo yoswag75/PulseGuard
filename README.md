@@ -29,7 +29,7 @@ Process to access the website:<br>
 <br><br>
 
 ## Lung Cancer Front end 
-- Process to access the website:<br>
+Process to access the website:<br>
 - Run the whole code<br>
 - In the last cell, click on the last link ("your url is: ")<br>
 - The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
