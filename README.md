@@ -7,7 +7,7 @@ A machine learning model utilising neural networks to predict the presence of lu
 <br><br>
 
 ## Cardiovascular Predictive Model
-[Cardiovascular Google Collab Link (Backend only) ](https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing)<br>
+<a href="https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing">Cardiovascular Google Collab Link (Backend only)</a><br>
 <br>
 [Dataset](heart.csv)
 <br><br>
