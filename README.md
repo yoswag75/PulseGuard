@@ -19,7 +19,7 @@ Process to access the website:<br>
 - The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
 - Hit Enter<br>
 <br>
-<a href="https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing">Cardiovascular Integrated Website</a>
+<a href="https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing">Cardiovascular Integrated Website (Google Colab Link)</a>
 <br><br>
 
 ## Lung Cancer Predictive Model
@@ -35,7 +35,7 @@ Process to access the website:<br>
 - The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
 - Hit Enter<br>
 <br>
-[Lung Cancer Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1lin78jCg0dKB65es8SxcSTKiQeC5xWvn?usp=sharing)
+<a href="https://colab.research.google.com/drive/1lin78jCg0dKB65es8SxcSTKiQeC5xWvn?usp=sharing">Lung Cancer Integrated Web Site (Google Collab Link)</a>
 <br><br>
 
 
@@ -52,6 +52,6 @@ Process to access the website:<br>
 - The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
 - Hit Enter<br>
 <br>
-[Query Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1-6n3YP3N2jK4kDomWIgi0_SPfhOUgYKj?usp=sharing)
+<a href="https://colab.research.google.com/drive/1-6n3YP3N2jK4kDomWIgi0_SPfhOUgYKj?usp=sharing">Query Integrated Web Site (Google Collab Link)</a>
 
 
