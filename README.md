@@ -13,11 +13,11 @@ A machine learning model utilising neural networks to predict the presence of lu
 <br><br>
 
 ## Cardiovascular Front end 
-Process to access the website: 
-Run the whole code\n 
-In the last cell, click on the last link ("your url is: ") 
-The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained
-Hit Enter
+Process to access the website:<br>
+Run the whole code<br>
+In the last cell, click on the last link ("your url is: ")<br>
+The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
+Hit Enter<br>
 <br>
 [Cardiovascular Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing)
 <br><br>
@@ -29,11 +29,11 @@ Hit Enter
 <br><br>
 
 ## Lung Cancer Front end 
-Process to access the website: 
-Run the whole code\n 
-In the last cell, click on the last link ("your url is: ") 
-The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained
-Hit Enter
+Process to access the website:<br>
+Run the whole code<br>
+In the last cell, click on the last link ("your url is: ")<br>
+The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
+Hit Enter<br>
 <br>
 [Lung Cancer Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1kB_WbIiIvSP3cwCuF8mpHTpv7O4npU5s?usp=sharing)
 <br><br>
@@ -46,11 +46,11 @@ Hit Enter
 <br><br>
 
 ## Query Front end 
-Process to access the website: 
-Run the whole code\n 
-In the last cell, click on the last link ("your url is: ") 
-The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained
-Hit Enter
+Process to access the website:<br>
+Run the whole code<br>
+In the last cell, click on the last link ("your url is: ")<br>
+The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
+Hit Enter<br>
 <br>
 [Query Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1-6n3YP3N2jK4kDomWIgi0_SPfhOUgYKj?usp=sharing)
 
