@@ -6,13 +6,13 @@ A machine learning model utilising neural networks to predict the presence of lu
 [Figma File](https://www.figma.com/file/JJCy02GIzUDjSvV2YRLe2M/PulseGaurd?type=design&node-id=0-1&mode=design&t=vM9kCWltyw9lKp30-0)
 <br><br>
 
-## Cardiovascular Predictive model
+## Cardiovascular Predictive Model
 [Cardiovascular Google Collab Link (Backend only)](https://colab.research.google.com/drive/1LNEraQRbYcRRd8u7QK2QAdnMZDAck4m8?usp=sharing)
 <br>
-[Dataset](https://github.com/D-Yuva/PulseGuard/files/14549332/heart.csv)
+[Dataset](heart.csv)
 <br><br>
 
-## Cardiovascular Front end 
+## Cardiovascular Front End 
 Process to access the website:<br>
 - Run the whole code<br>
 - In the last cell, click on the last link ("your url is: ")<br>
@@ -22,13 +22,13 @@ Process to access the website:<br>
 [Cardiovascular Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1b8d83LbgeW3h_7XKJyv4Fg4mpwHVya_s?usp=sharing)
 <br><br>
 
-## Lung Cancer 
+## Lung Cancer Predictive Model
 [Lung Cancer Google Collab Link (Backend only)](https://colab.research.google.com/drive/1lin78jCg0dKB65es8SxcSTKiQeC5xWvn?usp=sharing)
 <br>
-[Dataset](https://github.com/D-Yuva/PulseGuard/files/14549340/Lung_Cancer_Dataset.csv)
+[Dataset](Lung_Cancer_Dataset.csv)
 <br><br>
 
-## Lung Cancer Front end 
+## Lung Cancer Front End 
 Process to access the website:<br>
 - Run the whole code<br>
 - In the last cell, click on the last link ("your url is: ")<br>
@@ -42,7 +42,7 @@ Process to access the website:<br>
 ## Query section for the user 
 [Query Google Collab Link (Backend only)](https://colab.research.google.com/drive/1Fg44H53bEAR_IZM-FN3uHUqZmrr_y2C0?usp=sharing)
 <br>
-[Dataset](https://github.com/D-Yuva/PulseGuard/files/14549344/Disease.precaution.csv)
+[Dataset](Disease.precaution.csv)
 <br><br>
 
 ## Query Front end 
