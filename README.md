@@ -35,7 +35,7 @@ Process to access the website:<br>
 - The tunnel Password will appear in the second last cell (Example: "35.196.166.136") Paste this tunnel password in the above link obtained<br>
 - Hit Enter<br>
 <br>
-[Lung Cancer Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1kB_WbIiIvSP3cwCuF8mpHTpv7O4npU5s?usp=sharing)
+[Lung Cancer Google Collab Link (Integrated Web Site)](https://colab.research.google.com/drive/1lin78jCg0dKB65es8SxcSTKiQeC5xWvn?usp=sharing)
 <br><br>
 
 
