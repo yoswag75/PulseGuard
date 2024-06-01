@@ -3,8 +3,7 @@ A machine learning model utilising neural networks to predict the presence of lu
 
 [Presentation Link](https://www.canva.com/design/DAF_ArRurGk/nywdj6_OFlOSQk8bIOo5Xg/edit?utm_content=DAF_ArRurGk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 <br>
-
-[Figma Link](https://www.figma.com/file/JJCy02GIzUDjSvV2YRLe2M/PulseGaurd?type=design&node-id=0-1&mode=design&t=vM9kCWltyw9lKp30-0)
+[Figma File](https://www.figma.com/file/JJCy02GIzUDjSvV2YRLe2M/PulseGaurd?type=design&node-id=0-1&mode=design&t=vM9kCWltyw9lKp30-0)
 <br><br>
 
 ## Cardiovascular Predictive model
